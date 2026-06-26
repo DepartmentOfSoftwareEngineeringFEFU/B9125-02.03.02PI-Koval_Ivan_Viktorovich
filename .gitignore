@@ -1,0 +1,5 @@
+*.pdb
+*.idb
+*.obj
+*.tlog
+/project1/.vs
